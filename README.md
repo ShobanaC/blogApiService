@@ -1,4 +1,4 @@
-# blogApiService
+# BlogApiService
 A simple blog API service with GraphQl Endpoints using Graphene-Django
 
 ## Tech Stacks Used:
